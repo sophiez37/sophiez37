@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DependencyGraph/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DependencyGraph.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DependencyGraph.dll": {}
+        }
+      },
+      "Formula/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Formula.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Formula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyGraph/1.0.0": {
+      "type": "project",
+      "path": "../DependencyGraph/DependencyGraph.csproj",
+      "msbuildProject": "../DependencyGraph/DependencyGraph.csproj"
+    },
+    "Formula/1.0.0": {
+      "type": "project",
+      "path": "../Formula/Formula.csproj",
+      "msbuildProject": "../Formula/Formula.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DependencyGraph >= 1.0.0",
+      "Formula >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sophie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj",
+      "projectName": "Spreadsheet",
+      "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj",
+      "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sophie\\Source\\Repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sophie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj": {
+              "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj"
+            },
+            "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj": {
+              "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

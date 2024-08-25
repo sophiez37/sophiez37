@@ -1,0 +1,17 @@
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\Spreadsheet.deps.json
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\Spreadsheet.dll
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\Spreadsheet.pdb
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\DependencyGraph.dll
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\Formula.dll
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\DependencyGraph.pdb
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\bin\Debug\net7.0\Formula.pdb
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.csproj.CopyComplete
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.dll
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\refint\Spreadsheet.dll
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\Spreadsheet.pdb
+C:\Users\Sophie\source\repos\spreadsheet-sophiez37\Spreadsheet\Spreadsheet\obj\Debug\net7.0\ref\Spreadsheet.dll

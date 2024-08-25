@@ -1,0 +1,11 @@
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\bin\Debug\net7.0\NetworkController.deps.json
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\bin\Debug\net7.0\NetworkController.dll
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\bin\Debug\net7.0\NetworkController.pdb
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.dll
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\refint\NetworkController.dll
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\NetworkController.pdb
+C:\Users\Sophie\source\repos\game-appayipyip_game\PS8\NetworkController\obj\Debug\net7.0\ref\NetworkController.dll

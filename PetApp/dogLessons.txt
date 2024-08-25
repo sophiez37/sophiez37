@@ -1,0 +1,14 @@
+Welcome, please click on a lesson to begin care lessons for your pet!
+*
+Your dog should be eating roughly {foodAmount} cups of dry food everyday. It is recommended to split this amount into smaller portions given throughout the day. Adult dogs should be fed twice a day and puppies should be feed three to four times a day. Avoid feeding your dog human food, as the ingredients may not be suitable for them and can lead to health and digestive issues. 
+*
+Your dog should be drinking around {waterAmount} cups of water everyday. However, keep in mind that this amound will vary based on day-to-day variations. On days where your dog is more active or the weather is warmer, your dog will need more water. Make sure that clean water is always available for your dog. Signs of dehydration include panting, lethargy, sunken eyes, and dry gums.
+*
+You should be bathing your dog every four to six weeks. This amount may vary depending on the length of your dog's coat. Dogs with longer or curlier coats may need to be bathed more often as their coat is more prone to catching dirt and tangles. Only bathe your dog with shampoo and conditioner that is formulated for canine-skin. Doing so otherwise could irritate and damange your dog's skin. Make sure to not overbathe your dog as doing so could dry out their skin. 
+*
+Your dog should be able to go outside multiple times a day to pee or poop. A dog's poop can be a good indication of its health. Dog poop should be of a medium-firm consistency. If it is watery, your dog may have diarrhea or a gastrointestinal disorder. When taking your dog on a walk, make sure to bring poop bags with you so that you can clean up after them if they poop on the ground. Depending on where you live, not picking up your dog's poop in public areas like parks and sidewalks may result in a fine.
+*
+You should play with your dog at least twice a day for a minimum of 15 minutes at a time. Fun activities for your dog include tugging, retrieving, chasing, and searching. Dogs like playing wtih balls, rope toys, stuffed toys, chew toys, and puzzle toys. 
+*
+Based on your dog's age, your dog needs around {sleepAmount} hours of sleep a day. If your dog sleep schedule isn't in sync with yours, it's likely they're uncomfortable with their environment, haven't had enough exercise throughout the day or your dog hasn't establish a nightime routine yet. To deal with these issues, make sure your dog has a comfortable sleeping environment, have time for it to execise by jogging, playing and try to feed it at least a few hours before bedtime.
+*

@@ -1,0 +1,14 @@
+Welcome, please click on a lesson to begin care lessons for your pet!
+*
+Your cat should be eating everyday. Your cat needs {foodAmount} cups of dry cat food everyday. You should separate the {foodAmount} cups into three meals per day if your cat is around 6 months old and 1 - 2 meals if your cat is older.
+*
+Your cat needs to be drinking everyday. Your cat needs {waterAmount} cups of water everyday. Make sure the bowl is full since cats prefer full bowl and make sure the bowl are located in an area that has the least traffic possible in the house.
+*
+Your cat needs to take a bath once every 4-6 weeks. As cats are often skitish with water, make sure you let them make themselves comfortable with the water before bathing them. Do not arruptly throw them into the water as it can traumatize them.
+*
+Your cat needs to use the bathroom everyday. Similar to human, cat do the "deed" once per day. While adult cats often to the "deed" once per day, kittens can do it three times per day.
+*
+Cats are indepedent creatures and they often prefer lots of personal time. They still need at least 20 - 30 minutes of attention from their owners. Activities that owners can do with cats includes petting, playing with toys, etc.
+*
+Based on your cat's age, your cat needs around {sleepAmount} hours of sleep a day. Unlike humans, cats are crespuscular, they are active during late nights and early morning. So have the cat be in sync with your normal schedule, you can keep them awake longer by showering them with attentions, leaving them with entertainments when you' leave them're not around and feed them a small snack before bed.
+*

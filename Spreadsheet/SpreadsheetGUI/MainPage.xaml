@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:SS="clr-namespace:SS"
+             x:Class="SpreadsheetGUI.MainPage"
+             BackgroundColor="#C2C5AA">
+    <ContentPage.MenuBarItems>
+        <MenuBarItem Text="File">
+            <MenuFlyoutItem Text="New" Clicked="NewClicked" />
+            <MenuFlyoutItem Text="Open" Clicked="OpenClicked" />
+            <MenuFlyoutItem Text="Save" Clicked="SaveClicked" />
+        </MenuBarItem>
+        
+        <MenuBarItem Text="Find">
+            <MenuFlyoutItem Text="Find Value" Clicked="FindClicked" />
+            <MenuFlyoutItem Text="Clear Find" Clicked="ClearFindClicked" />
+        </MenuBarItem>
+
+        <MenuBarItem Text="Help">
+            <MenuFlyoutItem Text="How to use?" Clicked="HelpClicked" />
+        </MenuBarItem>
+    </ContentPage.MenuBarItems>
+   
+    <Grid RowDefinitions="50, *"
+          ColumnDefinitions="100, *, *">
+        <Label
+            x:Name="Address"
+            Grid.Row="0"
+            Grid.Column="0"
+            Text="A1"
+            FontSize="20"
+            HorizontalTextAlignment="Start"
+            VerticalTextAlignment="Center"
+            BackgroundColor="#A4AC86"
+            Padding="25, 0, 0, 0" />
+
+        <Entry
+            x:Name="Content"
+            Grid.Row="0"
+            Grid.Column="1"
+            Placeholder="f(x)"
+            Completed="ContentChanged"
+            PlaceholderColor="Grey"
+            BackgroundColor="#A4AC86"
+            FontSize="24"
+            MinimumWidthRequest="100" />
+
+        <Label
+            x:Name="Value"
+            Grid.Row="0"
+            Grid.Column="2"
+            Text=""
+            FontSize="24"
+            BackgroundColor="#A4AC86"
+            HorizontalTextAlignment="Start"
+            VerticalTextAlignment="Center"
+            MinimumWidthRequest="100" 
+            Padding="10, 0, 0, 0" />
+
+        <SS:SpreadsheetGrid
+            x:Name="spreadsheetGrid"
+            Grid.Row="1"
+            Grid.ColumnSpan="3" 
+            BackgroundColor="#B6AD90"/>
+    </Grid>
+</ContentPage>
+

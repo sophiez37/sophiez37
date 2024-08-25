@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>bone.png</file>
+        <file>cat-food.png</file>
+        <file>dog-food.png</file>
+        <file>food-bowl.png</file>
+        <file>water-bowl.png</file>
+        <file>water-cup.png</file>
+        <file>litter-box.png</file>
+        <file>bathroom.png</file>
+        <file>backyard.png</file>
+        <file>bedroom.png</file>
+        <file>livingroom.png</file>
+        <file>ball.png</file>
+        <file>brush.png</file>
+        <file>bath.png</file>
+        <file>play.png</file>
+        <file>poop.png</file>
+        <file>pet-bed.png</file>
+        <file>fish.png</file>
+        <file>fart.mp3</file>
+    </qresource>
+    <qresource prefix="/lessons">
+        <file>catLessons.txt</file>
+        <file>dogLessons.txt</file>
+    </qresource>
+    <qresource prefix="/cat_pack">
+        <file>Cat_Idle.png</file>
+        <file>Cat_Licking.png</file>
+        <file>Cat_Run.png</file>
+        <file>Cat_Walk.png</file>
+        <file>Cat_Laying.png</file>
+    </qresource>
+    <qresource prefix="/dog_pack">
+        <file>Dog_Attack.png</file>
+        <file>Dog_Idle.png</file>
+        <file>Dog_Walk.png</file>
+        <file>Dog_Death.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>click.mp3</file>
+        <file>pouring_food.mp3</file>
+        <file>congratulations.wav</file>
+        <file>cat-purr.mp3</file>
+        <file>brushing-cat.mp3</file>
+        <file>background_music.mp3</file>
+        <file>pouring_water.mp3</file>
+    </qresource>
+</RCC>

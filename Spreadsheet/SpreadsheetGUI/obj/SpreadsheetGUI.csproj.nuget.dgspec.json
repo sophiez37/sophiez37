@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\SpreadsheetGUI\\SpreadsheetGUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj",
+        "projectName": "DependencyGraph",
+        "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj",
+        "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sophie\\Source\\Repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sophie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj",
+        "projectName": "Formula",
+        "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj",
+        "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sophie\\Source\\Repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sophie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\SpreadsheetGUI\\SpreadsheetGUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\SpreadsheetGUI\\SpreadsheetGUI.csproj",
+        "projectName": "SpreadsheetGUI",
+        "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\SpreadsheetGUI\\SpreadsheetGUI.csproj",
+        "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\SpreadsheetGUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sophie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows10.0.19041": {
+            "targetAlias": "net7.0-windows10.0.19041.0",
+            "projectReferences": {
+              "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj": {
+                "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041.0",
+          "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "target": "Package",
+              "version": "[7.0.96, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
+              "target": "Package",
+              "version": "[7.0.96, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.2.221209.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[7.0.12, 7.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[7.0.12, 7.0.12]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.29, 10.0.19041.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[7.0.12, 7.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj",
+        "projectName": "Spreadsheet",
+        "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj",
+        "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Spreadsheet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sophie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj": {
+                "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj"
+              },
+              "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj": {
+                "projectPath": "C:\\Users\\Sophie\\source\\repos\\spreadsheet-sophiez37\\Spreadsheet\\Formula\\Formula.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
